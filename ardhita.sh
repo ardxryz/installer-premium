@@ -137,7 +137,7 @@ read -p "PILIH OPSI (1-16): " OPTION
 case "$OPTION" in
     1)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="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"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/ardxryz/installer-premium.git"
@@ -176,7 +176,7 @@ case "$OPTION" in
         ;;
     4)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="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"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/ardxryz/installer-premium.git"
@@ -222,7 +222,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
 fi
 
 # Masukkan token GitHub langsung di sini
-    GITHUB_TOKEN="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"
+    GITHUB_TOKEN="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"
 
     # Clone repositori menggunakan token
     REPO_URL="https://github.com/ardxryz/installer-premium.git"
@@ -247,7 +247,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
     exit 1
 fi
 # Masukkan token GitHub langsung di sini
-    GITHUB_TOKEN="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"
+    GITHUB_TOKEN="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"
 
     # Clone repositori menggunakan token
     REPO_URL="https://github.com/ardxryz/installer-premium.git"
@@ -303,7 +303,7 @@ cd /var/www/pterodactyl
 yarn
 cd /var/www/
 # Masukkan token GitHub langsung di sini
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 
 # Clone repositori menggunakan token
 REPO_URL="https://github.com/ardxryz/installer-premium.git"
@@ -486,7 +486,7 @@ fi
  ;;
     5)
      # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="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"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/ardxryz/installer-premium.git"
@@ -549,7 +549,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
 fi
 
 # Masukkan token GitHub langsung di sini
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 
 # Clone repositori menggunakan token
 REPO_URL="https://github.com/ardxryz/installer-premium.git"
